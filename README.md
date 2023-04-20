@@ -1,6 +1,6 @@
 # LV 1 zadatak - Osobna stranica
 
-### LINK: 
+### LINK: https://serene-marzipan-8bb8d8.netlify.app
 
 <hr />
 
